@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+  .nav-link {
+    margin-right: -10px;
+  }
+}
+
+@media (min-width: 768px) {
+  iframe {
+    margin: 22px;
+    padding: 30px;
+  }
+}
+
